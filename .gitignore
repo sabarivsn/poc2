@@ -1,0 +1,7 @@
+/bin/
+.idea/
+out/
+.gradle/
+.settings/
+poc1/
+gradle/
